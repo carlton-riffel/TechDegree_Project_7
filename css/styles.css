@@ -176,6 +176,18 @@ header img{
   margin-right: 10px;
   padding-right: 8px
 }
+
+#notificationDot {
+  display: block;
+  background-color: pink;
+  height: 6px;
+  width: 6px;
+  border-radius: 50%;
+  position: relative;
+  top: -35px;
+  right: -30px;
+}
+
 #profile img{
   border-radius:50%;
 }
